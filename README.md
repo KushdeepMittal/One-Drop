@@ -1,6 +1,6 @@
 # One-Drop
 It is an Online Blood Bank Database Management System which provide the details of donors located in particular city. The donor will create it's proﬁle and then accordingly needy blood bank can contact the donor and take the blood accordingly. 
-
+It is very helpful for the people who want blood.
 ## This is how the project will look like after installation.
 
 ![screenshot 95](https://user-images.githubusercontent.com/37772172/47527316-2045cd80-d857-11e8-8d3c-1997476ce4d3.png)
